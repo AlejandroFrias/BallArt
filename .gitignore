@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__
+.python-version
+
+# Virtual Env
+env/
+venv/
+.venv/
+
+# log files
+*.log
