@@ -16,4 +16,7 @@ source venv/bin/activate
 python art.py
 ```
 
+# Feature One
+
 # Feature two
+
